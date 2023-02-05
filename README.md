@@ -21,8 +21,6 @@ We design a nice clean analog clock UI by using flutter. Our clock supports both
 
 # Output
 ![Capture21](https://user-images.githubusercontent.com/124132734/216815087-17159e08-16ec-4516-856d-12e2ea17e575.PNG)
-
-
 ![Capture22](https://user-images.githubusercontent.com/124132734/216815089-7d296106-6a96-4eb1-9de5-894dd0d6958b.PNG)
 
 
